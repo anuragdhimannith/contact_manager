@@ -1,18 +1,228 @@
 [
-  {
-    "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
-    "email": "Shanna@melissa.tv",
-    "phone": "010-692-6593 x09125",
-    "website": "anastasia.net"
-  }
+    {
+        "id": 1,
+        "name": "TechMahindra",
+        "icon": "asset",
+        "image": "",
+        "isExpanded": false,
+        "depth": 1,
+        "children": [
+            {
+                "id": 2,
+                "name": "child1",
+                "icon": "group",
+                "image": "",
+                "isExpanded": false,
+                "depth": 2
+            },
+            {
+                "id": 3,
+                "name": "child2",
+                "icon": "machine",
+                "image": "",
+                "isExpanded": false,
+                "depth": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Baker Hughes",
+        "icon": "refinary",
+        "image": "",
+        "isExpanded": false,
+        "depth": 1,
+        "children": [
+            {
+                "id": 5,
+                "name": "child2.1",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 2
+            },
+            {
+                "id": 6,
+                "name": "child2.2",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 2,
+                "children": [
+                    {
+                        "id": 7,
+                        "name": "subsub",
+                        "icon": "refinary",
+                        "image": "",
+                        "isExpanded": false,
+                        "depth": 3
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "name": "many11",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1,
+                "children": [
+                    {
+                        "id": 111,
+                        "name": "subsub111",
+                        "icon": "refinary",
+                        "image": "",
+                        "isExpanded": false,
+                        "depth": 2
+                    },
+                    {
+                        "id": 112,
+                        "name": "subsub112",
+                        "icon": "refinary",
+                        "image": "",
+                        "isExpanded": false,
+                        "depth": 2,
+                        "children": [
+                            {
+                                "id": 121,
+                                "name": "subsub121",
+                                "icon": "refinary",
+                                "image": "",
+                                "isExpanded": false,
+                                "depth": 3
+                            },
+                            {
+                                "id": 122,
+                                "name": "subsub122",
+                                "icon": "refinary",
+                                "image": "",
+                                "isExpanded": false,
+                                "depth": 2
+                            }
+                        ]
+                    },
+                    {
+                        "id": 113,
+                        "name": "subsub113",
+                        "icon": "refinary",
+                        "image": "",
+                        "isExpanded": false,
+                        "depth": 2
+                    },
+                    {
+                        "id": 114,
+                        "name": "subsub114",
+                        "icon": "refinary",
+                        "image": "",
+                        "isExpanded": false,
+                        "depth": 2
+                    },
+                    {
+                        "id": 115,
+                        "name": "subsub115",
+                        "icon": "refinary",
+                        "image": "",
+                        "isExpanded": false,
+                        "depth": 2
+                    },
+                    {
+                        "id": 116,
+                        "name": "subsub116",
+                        "icon": "refinary",
+                        "image": "",
+                        "isExpanded": false,
+                        "depth": 2
+                    },
+                    {
+                        "id": 117,
+                        "name": "subsub117",
+                        "icon": "refinary",
+                        "image": "",
+                        "isExpanded": false,
+                        "depth": 2
+                    },
+                    {
+                        "id": 118,
+                        "name": "subsub118",
+                        "icon": "refinary",
+                        "image": "",
+                        "isExpanded": false,
+                        "depth": 2
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "name": "many12",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1
+            },
+            {
+                "id": 13,
+                "name": "many13",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1
+            },
+            {
+                "id": 14,
+                "name": "many14",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1
+            },
+            {
+                "id": 15,
+                "name": "many15",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1
+            },
+            {
+                "id": 16,
+                "name": "many16",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1
+            },
+            {
+                "id": 17,
+                "name": "many17",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1
+            },
+            {
+                "id": 18,
+                "name": "many18",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1
+            },
+            {
+                "id": 19,
+                "name": "many19",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1
+            },
+            {
+                "id": 20,
+                "name": "many20",
+                "icon": "refinary",
+                "image": "",
+                "isExpanded": false,
+                "depth": 1
+            }
+        ]
+    }
 ]
